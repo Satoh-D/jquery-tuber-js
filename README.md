@@ -5,8 +5,8 @@ __jQuery Plugin that use a Youtube Movie as background of Web page.__
 
 ## Demo
 
-[Demo Page(background of Web page.)](https://dl.dropboxusercontent.com/u/21601359/140610_tuberjs/test01.html)
-[Demo Page(background of Parent element.)](https://dl.dropboxusercontent.com/u/21601359/140610_tuberjs/test02.html)
+- [Demo Page(background of Web page.)](https://dl.dropboxusercontent.com/u/21601359/140610_tuberjs/test01.html)
+- [Demo Page(background of Parent element.)](https://dl.dropboxusercontent.com/u/21601359/140610_tuberjs/test02.html)
 
 ## Usage
 
@@ -34,9 +34,9 @@ $(function() {
 - `isBackground`[boolean]: use a movie as background of page.
 - `videoId`[string]: video-id of movie.
 - `videoLoop`[boolean]: loop the movie.
-- `videoMute'[boolean]: mute the audio.
-- `videoStart'[number]: set the seconds the video should start at.
-- `videoTheme'[string]: theme of movie player.('dark' or 'light')
+- `videoMute`[boolean]: mute the audio.
+- `videoStart`[number]: set the seconds the video should start at.
+- `videoTheme`[string]: theme of movie player.('dark' or 'light')
 
 ## Browser Support
 
